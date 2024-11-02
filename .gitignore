@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+dist/
+build/
+out-tsc/
+coverage/
+*.js
+*.map
+*.tsbuildinfo
+
+# Environment files
+*.env
+*.env.local
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
