@@ -8,7 +8,6 @@ dist/
 build/
 out-tsc/
 coverage/
-*.js
 *.map
 *.tsbuildinfo
 
